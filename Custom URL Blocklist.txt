@@ -20,4 +20,4 @@
 0.0.0.0 snitchlittle.info
 0.0.0.0 check-up.co
 0.0.0.0 airepagos.st
-
+0.0.0.0 bogota123.duckdns.org
