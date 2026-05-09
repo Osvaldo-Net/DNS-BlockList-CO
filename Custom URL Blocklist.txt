@@ -21,3 +21,15 @@
 0.0.0.0 check-up.co
 0.0.0.0 airepagos.st
 0.0.0.0 bogota123.duckdns.org
+0.0.0.0 windowsdriversmicrosoft.duckdns.org
+0.0.0.0 hostphpwindowtar3.duckdns.org
+0.0.0.0 trabajo-03.duckdns.org
+0.0.0.0 sosten-24.duckdns.org
+0.0.0.0 ojosostener20-02.duckdns.org
+0.0.0.0 3030asyn.duckdns.org
+0.0.0.0 mastermrc2.kozow.com
+0.0.0.0 co-simit.portal-virtual.cc
+0.0.0.0 recaudo-simit.portal-virtual.cc
+0.0.0.0 simit-fcm.portal-virtual.cc
+0.0.0.0 simit.portal-virtual.cc
+0.0.0.0 fcm-simit.portal-virtual.cc
