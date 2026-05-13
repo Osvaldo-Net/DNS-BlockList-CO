@@ -168,3 +168,6 @@
 0.0.0.0 portalrecaudomovistr.com
 0.0.0.0 icetexbecas.com
 0.0.0.0 icetex.net.co
+0.0.0.0 acueducto-pago.com
+0.0.0.0 pagos-acueducto.st
+0.0.0.0 acueducto-hub.vercel.app
