@@ -1,4 +1,4 @@
-# Listas de Bloqueo DNS — Ciberseguridad Colombiana
+# Listas de Bloqueo DNS para Colombia
 
 Listas de bloqueo DNS recopiladas a partir de alertas oficiales de ciberseguridad colombiana, principalmente de:
 
