@@ -256,3 +256,12 @@
 0.0.0.0 0306sendrat.duckdns.org
 0.0.0.0 germanballesteros90202233.duckdns.org
 0.0.0.0 dnsdervdffggh.mysynology.net
+0.0.0.0 loganwolverin2041.duckdns.org
+0.0.0.0 badbunny202612026.mysynology.net
+0.0.0.0 luisvalderrama90803002.duckdns.org
+0.0.0.0 0906envdcrat.duckdns.org
+0.0.0.0 envipolaco12.mysynology.net
+0.0.0.0 juny.ydns.eu
+0.0.0.0 asegurar2octubre.duckdns.org
+0.0.0.0 fisc1genbb.ooguy.com
+0.0.0.0 loganwolverin2032.duckdns.org
