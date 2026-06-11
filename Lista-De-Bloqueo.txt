@@ -243,3 +243,16 @@
 0.0.0.0 elpolacordp.dynuddns.com
 0.0.0.0 2505sendrat.duckdns.org
 0.0.0.0 mayol.casacam.net
+0.0.0.0 tarra26.duckdns.org
+0.0.0.0 envio25-05.duckdns.org
+0.0.0.0 guaricha.ydns.eu
+0.0.0.0 comienzo.ydns.eu
+0.0.0.0 tutaina.duckdns.org
+0.0.0.0 envionewrat2.duckdns.org
+0.0.0.0 envionuevo001000.mysynology.net
+0.0.0.0 germanballesteros90208090.duckdns.org
+0.0.0.0 datesnewenvio1.kozow.com
+0.0.0.0 britsygomez9090101212.duckdns.org
+0.0.0.0 0306sendrat.duckdns.org
+0.0.0.0 germanballesteros90202233.duckdns.org
+0.0.0.0 dnsdervdffggh.mysynology.net
