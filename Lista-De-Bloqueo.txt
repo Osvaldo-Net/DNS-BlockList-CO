@@ -278,3 +278,13 @@
 0.0.0.0 mothercars.duckdns.org
 0.0.0.0 samaralove.duckdns.org
 0.0.0.0 negromayo26.duckdns.org
+0.0.0.0 emotions.gleeze.com
+0.0.0.0 germanvargas902030002.duckdns.org
+0.0.0.0 amarretao.duckdns.org
+0.0.0.0 llegando09328.ydns.eu
+0.0.0.0 hosp02948.ydns.eu
+0.0.0.0 rayanar.duckdns.org
+0.0.0.0 ccleaenvionwju26.dynuddns.com
+0.0.0.0 mundialmexicotransmision20262026.1cooldns.com
+0.0.0.0 climacoolllll202620262026.dynuddns.net
+0.0.0.0 envi06166.duckdns.org
