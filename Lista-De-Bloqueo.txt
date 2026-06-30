@@ -288,3 +288,16 @@
 0.0.0.0 mundialmexicotransmision20262026.1cooldns.com
 0.0.0.0 climacoolllll202620262026.dynuddns.net
 0.0.0.0 envi06166.duckdns.org
+0.0.0.0 ogkillerdc.duckdns.org
+0.0.0.0 envio777.ydns.eu
+0.0.0.0 centauro.ydns.eu
+0.0.0.0 armandocaicedo9080.duckdns.org
+0.0.0.0 oyine.duckdns.org
+0.0.0.0 startmenuexperiencehosting.ydns.eu
+0.0.0.0 papel23.ddnsfree.com
+0.0.0.0 comunicacionesinersas.com
+0.0.0.0 rcdoncu1906.duckdns.org
+0.0.0.0 pytr.ydns.eu
+0.0.0.0 1906sendclient.duckdns.org
+0.0.0.0 luisdiazpu2025.freeddns.org
+0.0.0.0 sniperxok.duckdns.org
