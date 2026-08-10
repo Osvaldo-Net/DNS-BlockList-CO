@@ -1,6 +1,5 @@
 ||*.pcloud.link^
 0.0.0.0 nts.embluemail.com
-0.0.0.0 jyb.dk
 0.0.0.0 primeserver13.duckdns.org
 0.0.0.0 accounting-invoices.duckdns.org
 0.0.0.0 privatemyhost.duckdns.org
@@ -74,7 +73,6 @@
 0.0.0.0 keys2023.duckdns.org
 0.0.0.0 salsatomate.duckdns.org
 0.0.0.0 broadres.duckdns.org
-0.0.0.0 async2025j.duckdns.org
 0.0.0.0 andrefelipedonascime1768785037020.1552093.meusitehostgator.com.br
 0.0.0.0 emiratesvsflypass.in
 0.0.0.0 au72nuxzv2.ufs.sh
@@ -114,7 +112,6 @@
 0.0.0.0 dpaste.com
 0.0.0.0 datesnew12.kozow.com
 0.0.0.0 blessdx6m50isep.dynuddns.com
-0.0.0.0 climacool202720270.dynuddns.net
 0.0.0.0 microsoft64.duckdns.org
 0.0.0.0 broadres9.duckdns.org
 0.0.0.0 duckduckpattii.dynuddns.net
@@ -127,8 +124,6 @@
 0.0.0.0 drogures3.duckdns.org
 0.0.0.0 drogures.duckdns.org
 0.0.0.0 windowslocalhost11.duckdns.org
-0.0.0.0 mapshdi.wildscreeen.shop
-0.0.0.0 files.wildscreeen.shop
 0.0.0.0 claro-empresas-frontend.vercel.app
 0.0.0.0 simit.pagos-co.cc
 0.0.0.0 icetexbecas.com
@@ -178,7 +173,6 @@
 0.0.0.0 portaldavivienda.online
 0.0.0.0 app-personas-bancolombia.replit.app
 0.0.0.0 secureahoradaviviendasv.z13.web.core.windows.net
-0.0.0.0 simit-fcm.pagos-col.cc
 0.0.0.0 bancolombia.cz
 0.0.0.0 rbhwryw3zzxwhxeb.public.blob.vercel-storage.com
 0.0.0.0 sutamarchan7777.duckdns.org
@@ -200,7 +194,6 @@
 0.0.0.0 germanballesteros90202233.duckdns.org
 0.0.0.0 dnsdervdffggh.mysynology.net
 0.0.0.0 loganwolverin2041.duckdns.org
-0.0.0.0 luisvalderrama90803002.duckdns.org
 0.0.0.0 juny.ydns.eu
 0.0.0.0 asegurar2octubre.duckdns.org
 0.0.0.0 fisc1genbb.ooguy.com
@@ -217,9 +210,6 @@
 0.0.0.0 amarretao.duckdns.org
 0.0.0.0 llegando09328.ydns.eu
 0.0.0.0 hosp02948.ydns.eu
-0.0.0.0 mundialmexicotransmision20262026.1cooldns.com
-0.0.0.0 climacoolllll202620262026.dynuddns.net
-0.0.0.0 envi06166.duckdns.org
 0.0.0.0 ogkillerdc.duckdns.org
 0.0.0.0 envio777.ydns.eu
 0.0.0.0 armandocaicedo9080.duckdns.org
@@ -230,9 +220,7 @@
 0.0.0.0 pytr.ydns.eu
 0.0.0.0 luisdiazpu2025.freeddns.org
 0.0.0.0 sniperxok.duckdns.org
-0.0.0.0 wolrdcup2026202620262026.dynuddns.net
 0.0.0.0 expertlord.duckdns.org
-0.0.0.0 fabiancorrales907050003.duckdns.org
 0.0.0.0 mirson.duckdns.org
 0.0.0.0 javierzaneti809050003.duckdns.org
 0.0.0.0 doeschrome.duckdns.org
@@ -247,7 +235,6 @@
 0.0.0.0 newpouelsen1.duckdns.org
 0.0.0.0 soloasyn12.duckdns.org
 0.0.0.0 juanitoalimana2026.duckdns.org
-0.0.0.0 sdg3454f.duckdns.org
 0.0.0.0 polusennew1.duckdns.org
 0.0.0.0 acueducto-pse.st
 0.0.0.0 aguasb.st
@@ -274,7 +261,6 @@
 0.0.0.0 pagos-emcali.st
 0.0.0.0 pagos-enel.st
 0.0.0.0 pagoslasvegas.st
-0.0.0.0 psebre-b.com
 0.0.0.0 psebre-b.st
 0.0.0.0 suranlinea.st
 0.0.0.0 uribienespagos.st
@@ -291,16 +277,12 @@
 0.0.0.0 uribienes-pago.st
 0.0.0.0 sigsawer2026.ydns.eu
 0.0.0.0 fifapost.chickenkiller.com
-0.0.0.0 conslidao938.ydns.eu
 0.0.0.0 resources93009.ydns.eu
 0.0.0.0 quasartml.duckdns.org
 0.0.0.0 envi12.dynuddns.com
 0.0.0.0 elpolacodeleste1.duckdns.org
 0.0.0.0 nuevoservicioremco.duckdns.org
 0.0.0.0 elpolacodeleste5.duckdns.org
-0.0.0.0 windowsdefenderupdate004993004343.dynuddns.net
-0.0.0.0 dccooomi2022j.duckdns.org
-0.0.0.0 josealberto25.duckdns.org
 0.0.0.0 trusteeribm.duckdns.org
 0.0.0.0 nuevocomienzp333.duckdns.org
 0.0.0.0 c2nuevpoder.kozow.com
@@ -309,18 +291,14 @@
 0.0.0.0 onepicce.ydns.eu
 0.0.0.0 elpolacodelsur1.duckdns.org
 0.0.0.0 elpolacodelsur2.duckdns.org
-0.0.0.0 enviocrosoftbk.duckdns.org
 0.0.0.0 salimosdelgheti.duckdns.org
 0.0.0.0 probandonuebvi.duckdns.org
 0.0.0.0 elpolacopop.dynuddns.com
-0.0.0.0 sostegallo.duckdns.org
 0.0.0.0 nominal8291.duckdns.org
 0.0.0.0 topo1234.ddnsgeek.com
 0.0.0.0 kiosko1234.freeddns.org
 0.0.0.0 purepower21.kozow.com
 0.0.0.0 wordxtt.duckdns.org
-0.0.0.0 elpatodonal3989.duckdns.org
-0.0.0.0 fgfdhghgfj.duckdns.org
 0.0.0.0 1989remcos.duckdns.org
 0.0.0.0 soapurat777.duckdns.org
 0.0.0.0 duuopuret.duckdns.org
@@ -331,7 +309,6 @@
 0.0.0.0 felipequintero90807003.duckdns.org
 0.0.0.0 cristiancaballero501020.duckdns.org
 0.0.0.0 dinero26.duckdns.org
-0.0.0.0 finalmundial202620262026mesiii.dynuddns.com
 0.0.0.0 unoparatodosytodospara123.duckdns.org
 0.0.0.0 511mon.kozow.com
 0.0.0.0 rios16santiago86.mywire.org
@@ -342,17 +319,13 @@
 0.0.0.0 elpolacoaseg.dynuddns.com
 0.0.0.0 cuantumentremontanas.duckdns.org
 0.0.0.0 xasegura2028.kozow.com
-0.0.0.0 ultrasshell1.ddns.net
-0.0.0.0 msimasidownload.duckdns.org
 0.0.0.0 hernangalindo4070809090.duckdns.org
 0.0.0.0 nuevoserveee.duckdns.org
 0.0.0.0 admonfacturacionproveedores.duckdns.org
 0.0.0.0 rd-new1.kozow.com
 0.0.0.0 poulsennew1.duckdns.org
 0.0.0.0 cristiancaballero50102003.duckdns.org
-0.0.0.0 msidownloads.duckdns.org
 0.0.0.0 loganwolverin2028.webredirect.org
-0.0.0.0 superenergy202620262026.yyuyy.com
 0.0.0.0 startmenuexperiencehostin.ydns.eu
 0.0.0.0 contaaaa1.ddnsgeek.com
 0.0.0.0 loganwolverin2025.webredirect.org
