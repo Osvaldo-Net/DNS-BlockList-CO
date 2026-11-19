@@ -4,7 +4,7 @@ Listas de bloqueo DNS recopiladas a partir de alertas oficiales de cibersegurida
 
 - **CC-CSIRT Policía Nacional:** Centro Cibernético Policial  
 
-Compatibles con **AdGuard Home**, **Pi-hole**, **Technitium**, **Goaway** y cualquier solución DNS que soporte listas de bloqueos personalizadas.
+Compatibles con **AdGuard Home**, **Pi-hole**, **Technitium** y cualquier solución DNS que soporte listas de bloqueos personalizadas.
 
 ---
 
