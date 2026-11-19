@@ -18,11 +18,6 @@
 0.0.0.0 ojosostener20-02.duckdns.org
 0.0.0.0 3030asyn.duckdns.org
 0.0.0.0 mastermrc2.kozow.com
-0.0.0.0 co-simit.portal-virtual.cc
-0.0.0.0 recaudo-simit.portal-virtual.cc
-0.0.0.0 simit-fcm.portal-virtual.cc
-0.0.0.0 simit.portal-virtual.cc
-0.0.0.0 fcm-simit.portal-virtual.cc
 0.0.0.0 pedrozaadrian4891989.duckdns.org
 0.0.0.0 sostenerhol.ddns.me
 0.0.0.0 noviembre2297.duckdns.org
@@ -43,7 +38,6 @@
 0.0.0.0 bssport.webredirect.org
 0.0.0.0 kfzpark.duckdns.org
 0.0.0.0 carki.duckdns.org
-0.0.0.0 enviomshnd.dynuddns.net
 0.0.0.0 asegurar9795.duckdns.org
 0.0.0.0 remc9095j.duckdns.org
 0.0.0.0 powershellrat.dynuddns.net
@@ -122,7 +116,6 @@
 0.0.0.0 drogures.duckdns.org
 0.0.0.0 windowslocalhost11.duckdns.org
 0.0.0.0 claro-empresas-frontend.vercel.app
-0.0.0.0 simit.pagos-co.cc
 0.0.0.0 icetexbecas.com
 0.0.0.0 icetex.net.co
 0.0.0.0 pagos-acueducto.st
@@ -382,7 +375,6 @@
 0.0.0.0 amarre800.ddnsguru.com
 0.0.0.0 poder.kozow.com
 0.0.0.0 amarre26.mysynology.net
-0.0.0.0 envio14-9.duckdns.org
 0.0.0.0 textotao.duckdns.org
 0.0.0.0 msidownload11.duckdns.org
 0.0.0.0 paletikas7892.duckdns.org
